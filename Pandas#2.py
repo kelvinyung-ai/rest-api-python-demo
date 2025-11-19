@@ -21,6 +21,10 @@ print ("Type of series: ", series2.dtype)
 print ("Type of series: ", type(series2), "\n")
 
 print (series3[1:3], "\n")
-print ("list: ", list[1:3]) 
+print ("list: ", list[1:3], "\n") 
+print (type(series3))
+
+a=int(3* 2.24)
+print(a)
 
 #print(series)
